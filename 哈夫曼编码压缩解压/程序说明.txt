@@ -1,0 +1,4 @@
+8-4-1.py     统计yuanwen.txt中每个汉字出现的次数，并输出到quanzhi.txt中
+8-4-2.cpp   利用quanzhi.txt中的出现次数，构建哈夫曼树，并返回哈夫曼编码到codes.txt
+8-4-3.cpp   压缩，生成yasuo.bin
+8-4-4.cpp   解压，生成jieya.txt
